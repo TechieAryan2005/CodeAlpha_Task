@@ -1,0 +1,1 @@
+# Views for shopping cart, product page, etc.
